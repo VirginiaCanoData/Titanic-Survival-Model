@@ -12,7 +12,6 @@ Métricas del Modelo:
 
 Tecnologías Utilizadas:
 - Python
-      Pandas, Scikit-learn, Matplotlib (si se incluye análisis visual)
 
 Contribuciones:
 Si deseas mejorar el modelo o sugerir cambios, ¡estoy abierta a pull requests!
