@@ -9,6 +9,7 @@ Métricas del Modelo:
 - Sensibilidad: 89.47%
 - Especificidad: 94.74%
 - Curva de ROC:
+  
   ![image](https://github.com/user-attachments/assets/7b27f1a2-99ab-4307-aa3d-a5b5afb22eca)
 
 - Estas métricas indican que el modelo tiene un rendimiento robusto, equilibrando correctamente la detección de sobrevivientes y no sobrevivientes.
